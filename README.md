@@ -1,5 +1,4 @@
-# Manlykdwayne.github.io
-# Hi, I'm Dwayne 👋
+]# Hi, I'm Dwayne 👋
 
 Data Analyst | SQL | Power BI Specialist
  
