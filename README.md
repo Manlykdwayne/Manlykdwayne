@@ -1,16 +1,37 @@
-## Hi there 👋
+# Manlykdwayne.github.io
+# Hi, I'm Dwayne 👋
 
-<!--
-**Manlykdwayne/Manlykdwayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | SQL | Power BI Specialist
+ 
+I help organizations make informed, data-driven decisions by transforming raw data into clear, actionable insights using SQL, Power BI, Excel.
 
-Here are some ideas to get you started:
+## Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Analytics
+
+## Skills
+
+- Power BI
+- Excel
+- SQL
+- Power Apps
+- Python
+- Looker Studio
+- Microsoft Word
+
+## Featured Projects
+
+- Logistic Analysis
+- Sales Analysis
+- Data cleaning and Modeling
+- Data Visuaization
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/philip-simeon-popoola
+
+Email: manlykdwayne@gmail.com
+
+## Portfolio
+TS Academy - TSG9ERCFPS8M8D
+
