@@ -2,7 +2,7 @@
 
 Data Analyst | SQL | Power BI Specialist
  
-I help organizations make informed, data-driven decisions by transforming raw data into clear, actionable insights using SQL, Power BI, Excel.
+I help organizations make informed, data-driven decisions by transforming raw data into clear, actionable insights using SQL, Power BI, Excel...
 
 ## Certifications
 
