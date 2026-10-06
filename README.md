@@ -24,6 +24,7 @@ I help organizations make informed, data-driven decisions by transforming raw da
 - Sales Analysis
 - Data cleaning and Modeling
 - Data Visuaization
+- Exploratory Data Analysis
 
 ## Contact
 
